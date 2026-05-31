@@ -22,8 +22,7 @@
 
 Most of my day-to-day development happens in private repositories, focusing on infrastructure, university coursework, and security challenges.
 
-- 🌍 While much of my core work is private, I am passionate about the broader developer community and actively **contribute to open-source projects** whenever I have the time.
-- 🎓 Balancing academic work with hands-on development, including **university projects** and automated document pipelines.
+- 🌍 While much of my core work is private, I am passionate about the broader developer community and actively **contribute to open-source projects** when I find time between my job and my academic work.
 - 🔭 I am working on managing my personal infrastructure using **IaC and GitOps**.
 - 🛡️ In my free time, I participate in **CTFs** and build automations for that.
 - 🌱 My core stack revolves around **Python, Go, and Shell scripting**, expanding into **TypeScript** and **C++** for some projects.
