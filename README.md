@@ -29,23 +29,9 @@ Most of my day-to-day development happens in private repositories, focusing on i
 
 ---
 
-### 🚀 Open Source
-
-* **[alpine-qbittorrentvpn](https://github.com/Trigus42/alpine-qbittorrentvpn)**
-    * **Overview:** A multi-architecture Docker image running the latest qBittorrent-nox client with an integrated WireGuard/OpenVPN tunnel.
-    * **Engineering Focus:** Built with a custom netfilter killswitch to prevent IP leakage, strict IPv6 support, and native s6-rc extensibility for background daemons. This project focuses heavily on secure, isolated networking within containerized environments.
-
-* **[kali-rdp-container](https://github.com/Trigus42/kali-rdp-container)**
-    * **Overview:** A opinionated Docker image providing a full Kali Linux desktop environment accessible via SSH and RDP with with tools pre-installed.
-
-* **[kollus-download](https://github.com/Trigus42/kollus-download)** *(Note: Unmaintained / Archive)*
-    * **Overview:** An older PoC project showing weaknesses in the Kollus media streaming service, allowing users to download protected content.
-
----
-
-### 🔒 Behind the Commits (Private Work)
+### 🔒 Behind the Commits
 
 To give context to my GitHub activity graph, here is an extract of the engineering work I do in my private repositories:
 
-* **Infrastructure & DevOps:** Complete Infrastructure as Code (IaC) and GitOps configurations for my personal servers using HCL and FluxCD.
-* **Academics & Security:** C++ projects (e.g., a Dungeon Crawler engine), Python scripts for solving CTF challenges, and LaTeX templates for academic papers.
+* **Infrastructure & DevOps:** Complete Infrastructure as Code (IaC) and GitOps configurations for my personal servers.
+* **Academics & Security:** Uni programming projects, Python scripts for solving CTF challenges, and academic papers.
